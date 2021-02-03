@@ -10,6 +10,8 @@ namespace csharp
             string a = "Hello there";
             string b = "Group 12";
             Console.WriteLine(a+ " " +b);
+            Console.WriteLine("Test igjen");
+
         }
     }
 }
