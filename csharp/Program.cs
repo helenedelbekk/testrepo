@@ -8,9 +8,8 @@ namespace csharp
         {
             Console.WriteLine("Hello World!");
             string a = "Hello there";
-            string b = "Group 12";
+            string b = "Mathias";
             Console.WriteLine(a+ " " +b);
-            Console.WriteLine("Test igjen");
 
         }
     }
